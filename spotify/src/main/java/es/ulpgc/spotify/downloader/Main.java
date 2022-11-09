@@ -8,9 +8,11 @@ import java.util.Map;
 
 public class Main {
     private static final Map<String, String> artists = Map.of(
-            "1EXjXQpDx2pROygh8zvHs4", "Melendi"
-
-    );
+            "1EXjXQpDx2pROygh8zvHs4", "Melendi",
+            "1ackd5XprZEkH3McKbQD51", "Juan Magán",
+            "3vQ0GE3mI0dAaxIMYe5g7z", "Paulo Londra",
+            "7dGJo4pcD2V6oG8kP0tJRR", "Eminen",
+            "1Ts9of7VPZElwPQnqnDSfW", "Lyanno");
 
 
     public static void main(String[] args) throws Exception {
